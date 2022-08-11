@@ -1,8 +1,8 @@
 # Readme 
 
-## Issue 
+## Problem 
 
-Turing School of Software and Design provides an excel sheet that list companies that have hired directly from Turing. There is no easy way to track jobs interested in, applied for, or any sort functionality
+Turing School of Software and Design provides an excel sheet that list companies that have hired directly from Turing. There is no easy way to track jobs interested in, applied for, or any filter/sort functionality
 
 
 ## Solution
