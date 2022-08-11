@@ -39,6 +39,19 @@ This is an opensource passion project designed to allow Turing grads to continue
 - Initial PR will NOT be merged. You will recieve feedback with comments.
 - Address comments, and submit additional PRs
 
+Pull Request should address one single feature and have minimal changes 
 
-## Become 
+
+## Submitting Issues
+
+Open a new issue and try to address the following:
+- Problem
+- Potential solution 
+- Why are you recommending the change?
+
+## Become Collaborator 
+
+Reach out to Reuben Davison creubend@gmail.com
+
+
 
