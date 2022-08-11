@@ -1,24 +1,12 @@
-# README
+# Readme 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Issue 
 
-Things you may want to cover:
+Turing School of Software and Design provides an excel sheet that list companies that have hired directly from Turing. There is no easy way to track jobs interested in, applied for, or any sort functionality
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Solution
+- Create Jobs 
+- Import excel as CSV 
+- Create Users
+- Allow users to sort, save and label jobs.  
